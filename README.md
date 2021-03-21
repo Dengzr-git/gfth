@@ -1,1 +1,1 @@
-### This is DA_cycling scripts for shell
+### This is shell scripts for DA_cycling
