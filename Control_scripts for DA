@@ -2,6 +2,12 @@
 #-------------------------------------
 # this is the Control scripts for DA
 # Name: contorl.sh
-# Write by dzr
+# Write by dzr 03/2021
 #-------------------------------------
-.............................
+
+#-------------------------------------
+# Time contorl
+export INITIAL_DATE=2019060100
+export END_DATE=2019060200
+#the whole period time between simulation
+#-------------------------------------------
