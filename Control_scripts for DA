@@ -9,3 +9,5 @@
 # Time contorl
 export INITIAL_DATE=2019060100
 export END_DATE=2019060200
+#the whole period time between simulation
+#-------------------------------------------
