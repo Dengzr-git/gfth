@@ -1,2 +1,1 @@
-### This is for ljj xl and dzr
-#### About Data Assimilation 
+### This is DA_cycling scripts for shell
